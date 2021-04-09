@@ -13,3 +13,5 @@ Bruno Lacerda Nogueira
 Rafael Alexandre Alencar Dantas
 
 Vinícius da Silva Ribeiro
+
+Alexsander Lins Nogaia Arcelino
